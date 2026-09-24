@@ -12,7 +12,7 @@ GEM
     actioncable (7.0.4)
       actionpack (= 7.0.4)
       activesupport (= 7.0.4)
-      nio4r (~> 2.7)
+      nio4r (~> 2.0)
       websocket-driver (>= 0.6.1)
     actionmailbox (7.0.4)
       actionpack (= 7.0.4)
